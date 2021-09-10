@@ -5,7 +5,7 @@
 `Requirement` → Twitter API, you can create one from [twitter developer page](https://apps.twitter.com/).
 
 __GO TO:__ [`Problem Description`](#ProblemDescription) [`Project Summary`](#Project-summary)
-[`Library Used`](#Requirements) 
+[`Library Used`](#Library-used) 
 
 ---
 ## Problem Description
@@ -21,6 +21,9 @@ In this baisc project I have tried to demonstrate how one can
 * Calculate tweet's subjectivity, polarity, and sentiment.
 * Filter out +ve, neutral and -ve tweets.
 * Visualize most used word related to bitcoin by creating 
+
+**Bitcoin Wordcloud (generated in project)**
+![Bitcoin wordcloud](https://github.com/DarkstarDream/Bitcoin-Tweet-sentiment-Analysis/blob/master/Word%20cloud/Bitcoin.png)
 
 ---
 
